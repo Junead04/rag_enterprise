@@ -121,4 +121,4 @@ Fixed-size chunking (e.g. 500 chars) cuts text arbitrarily:
 
 ---
 
-*RAG Enterprise Agent · Portfolio Project · Inspired by Katonic AI*
+*RAG Enterprise Agent 
