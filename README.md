@@ -1,7 +1,6 @@
 # 🧠 RAG Enterprise Agent
 ### Proposition-Based Chunking + LLM Metadata Filtering + Vector Search
 
-> Built for Katonic AI portfolio — mirrors their core RAG pipeline products  
 > Stack: Python · ChromaDB · HuggingFace · Groq LLM · Streamlit
 
 ---
@@ -118,13 +117,6 @@ Fixed-size chunking (e.g. 500 chars) cuts text arbitrarily:
 5. Result: more precise, less noise, less hallucination
 
 ---
-
-## 📊 Interview Talking Points
-
-- **Why proposition chunking?** Each chunk is semantically complete → better cosine similarity match → higher retrieval precision
-- **Why metadata filtering?** Reduces search space → faster + more targeted → less irrelevant context fed to LLM → less hallucination
-- **Why ChromaDB?** Local, persistent, HNSW index for fast cosine similarity, built-in metadata filtering
-- **Why HuggingFace embeddings?** Free, offline-capable, 384-dim vectors from all-MiniLM-L6-v2
 - **How to scale this?** Replace ChromaDB with Milvus, add reranking with cross-encoders, add hybrid BM25 + vector search
 
 ---
