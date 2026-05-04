@@ -1,0 +1,33 @@
+BANKING CREDIT RISK POLICY DOCUMENT
+Organization: Enterprise Financial Services Ltd
+Domain: Banking | Category: Policy | Date: 2024 | Author: Risk Management Team
+
+SECTION 1: CREDIT RISK OVERVIEW
+
+Credit risk is defined as the potential loss arising from a borrower's failure to repay a loan or meet contractual obligations. The bank must assess creditworthiness before approving any loan application. All lending decisions must be based on a thorough analysis of the borrower's financial position, repayment history, and collateral value.
+
+The Credit Risk Management Framework establishes guidelines for identifying, measuring, monitoring, and controlling credit risk across all business units. The framework is reviewed annually and updated to reflect changes in regulatory requirements and market conditions.
+
+SECTION 2: LOAN APPROVAL CRITERIA
+
+For retail customers, the minimum credit score required for loan approval is 700 on a scale of 300 to 900. Customers with credit scores between 650 and 699 may be considered for loans with additional collateral or a co-applicant. Customers with scores below 650 are generally declined unless exceptional circumstances apply.
+
+The Debt-to-Income ratio must not exceed 40 percent for retail borrowers. This means the total monthly debt payments including the proposed loan EMI should not exceed 40 percent of the borrower's gross monthly income.
+
+Loan-to-Value ratio for secured loans must not exceed 80 percent for residential property and 60 percent for commercial property. This ensures adequate collateral coverage in case of default.
+
+SECTION 3: RISK CLASSIFICATION
+
+All credit exposures are classified into four risk categories. Category A represents low-risk accounts with credit scores above 750 and no payment defaults in the past 24 months. Category B represents medium-risk accounts with credit scores between 650 and 750. Category C represents high-risk accounts with credit scores between 550 and 650 or one payment default in the past 12 months. Category D represents non-performing assets where the borrower has defaulted for more than 90 days.
+
+SECTION 4: REGULATORY COMPLIANCE
+
+All credit decisions must comply with the Reserve Bank of India guidelines on prudential norms for income recognition and asset classification. The bank must maintain a Capital Adequacy Ratio of at least 12 percent as per Basel III norms. Provisions for Non-Performing Assets must be made as per RBI circular dated January 2024.
+
+Large credit exposures to a single borrower or group of connected borrowers must not exceed 20 percent of the bank's Tier 1 capital. This concentration risk limit is strictly enforced by the Credit Risk Committee.
+
+SECTION 5: MONITORING AND REVIEW
+
+All credit facilities must be reviewed annually or more frequently if there are early warning signals. Early warning signals include irregular repayment patterns, deteriorating financial ratios, adverse news about the borrower, or significant changes in the borrower's business environment.
+
+The Credit Monitoring Team generates monthly reports on portfolio quality, concentration risk, and overdue accounts. These reports are presented to the Board Risk Committee every quarter.
